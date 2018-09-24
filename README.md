@@ -1,11 +1,10 @@
-Why the fork?
+<h1>Why the fork?</h1>
 	This fork is to update these plugins to the latest version of ComicRack
 
-Downloads:
-  - Next Issues To Read 1.0 -
-  https://1drv.ms/u/s!Avm6om1lVTFUif0guvY5t4eOfY4ggg
+<h1>Downloads:</h1>
+  - Next Issues To Read 1.0 - <a href='https://1drv.ms/u/s!Avm6om1lVTFUif0guvY5t4eOfY4ggg'>Download Here</a>
 
-Scripts:
+<h1>Scripts:</h1>
   * Series Info Panel (Old, not working/untested) - Will look in to updating
   * Next Issues To Read - Currently updated, seems to be working.
   * Files Not Found (Old, not working/untested) - Will look in to updating
