@@ -1,7 +1,11 @@
+Downloads:
+  - Next Issues To Read 1.0 -
+  https://1drv.ms/u/s!Avm6om1lVTFUif0guvY5t4eOfY4ggg
+
 Scripts:
-  * Series Info Panel
-  * Next Issues To Read
-  * Files Not Found
+  * Series Info Panel (Old, not working/untested) - Will look in to updating
+  * Next Issues To Read - Currently updated, seems to be working.
+  * Files Not Found (Old, not working/untested) - Will look in to updating
 
 
 

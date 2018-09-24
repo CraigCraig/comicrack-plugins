@@ -142,8 +142,8 @@ class BookWrapper:
 			
 			return imageFile
 			
-		except Exception,e:
-			print '[SeriesInfoPanel] Exception when saving image: ', e
+		except Exception as e:
+			print('[SeriesInfoPanel] Exception when saving image: '. e)
 			return ''
 	
 	def GetFullName(self):
