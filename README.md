@@ -1,3 +1,6 @@
+Why the fork?
+	This fork is to update these plugins to the latest version of ComicRack
+
 Downloads:
   - Next Issues To Read 1.0 -
   https://1drv.ms/u/s!Avm6om1lVTFUif0guvY5t4eOfY4ggg
